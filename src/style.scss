@@ -1,0 +1,7 @@
+.color {
+  background-color: aqua;
+  &:hover {
+    background-color: darken(aqua, 30%);
+    padding: 100px;
+  }
+}
