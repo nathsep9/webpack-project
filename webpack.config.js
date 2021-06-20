@@ -27,7 +27,7 @@ const config = {
       },
     ],
   },
-  watch: true,
+  watch: false,
 };
 
 module.exports = config;
